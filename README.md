@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1idMOeyTSLVqllFc-uL34so-VUhdwYcmjpCh1u6PS4Co/edit?usp=sharing](https://docs.google.com/document/d/1idMOeyTSLVqllFc-uL34so-VUhdwYcmjpCh1u6PS4Co/edit?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny guy**
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
