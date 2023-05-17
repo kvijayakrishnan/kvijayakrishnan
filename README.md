@@ -25,7 +25,7 @@
 
 <a href="https://www.linkedin.com/in/vijay-krishnan-1a99aa228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijayakrishnan" height="30" width="40" /></a><a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18681436/vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18681436/vijay" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vijayakrishnan91/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vijayakrishnan91/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
-
+ 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
