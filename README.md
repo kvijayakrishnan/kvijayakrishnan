@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayakrishnan&label=Profile%20views&color=0e75b6&style=flat" alt="vijayakrishnan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/vijay58626316" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/vijay58626316?logo=twitter&style=for-the-badge" alt="https://twitter.com/vijay58626316" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack web developer**
 
 - 👯 I’m looking to collaborate on **Full stack web developer**
