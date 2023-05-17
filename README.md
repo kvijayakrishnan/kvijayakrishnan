@@ -1,5 +1,8 @@
 <h1 align="center">Hi <img src="https://thumbs.gfycat.com/DigitalVelvetyAntelopegroundsquirrel-size_restricted.gif" height="30" width="40"/>, I'm Vijayakrishnan.K</h1>
 <h3 align="center">A passionate MERN Stack web developer from India</h3>
+<img align="right" alt="Coding" width="400" 
+     src=
+"https://agencecartier.com/wp-content/uploads/2022/08/Cartier_InfolettreJuillet2022_Article1_desktopREV-1.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayakrishnan&label=Profile%20views&color=0e75b6&style=flat" alt="vijayakrishnan" /> </p>
 
