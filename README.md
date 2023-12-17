@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack web developer**
 
-- 👨‍💻 All of my projects are available at [https://vijayakrishnan-portfolio.netlify.app/](https://vijayakrishnan-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kvijayakrishnan-portfolio.netlify.app/](https://kvijayakrishnan-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
