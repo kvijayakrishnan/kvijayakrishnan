@@ -1,4 +1,4 @@
-<h1 align="center">Hi,<img src="https://thumbs.gfycat.com/DigitalVelvetyAntelopegroundsquirrel-size_restricted.gif" height="30" width="40"/>I'm Vijayakrishnan.K</h1>
+<h1 align="center">Hi, I'm Vijayakrishnan.K<img src="https://thumbs.gfycat.com/DigitalVelvetyAntelopegroundsquirrel-size_restricted.gif" height="30" width="40"/></h1>
 <h3 align="center">A passionate MERN Stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" 
      src=
