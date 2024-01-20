@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://pic.chinesefontdesign.com/uploads/2017/03/chinesefontdesign.com_2017-03-04_09-41-34.gif" height="30" width="40"/>I'm Vijayakrishnan.K</h1>
+<h1 align="center"><img src="https://pic.chinesefontdesign.com/uploads/2017/03/chinesefontdesign.com_2017-03-04_09-41-34.gif" height="60" width="80"/>I'm Vijayakrishnan.K</h1>
 <h3 align="center">A passionate MERN Stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" 
      src=
