@@ -1,4 +1,4 @@
-<h1 align="center"> /*<img src="https://drive.google.com/file/d/1_RRdc8P7uCQsJ9Ppk6k1bhXj9Palby7v/view?usp=sharing" height="120" width="160"/>*/I'm Vijayakrishnan.K</h1>
+<h1 align="center">Hi, I'm Vijayakrishnan.K</h1>
 <h3 align="center">A passionate MERN Stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" 
      src=
