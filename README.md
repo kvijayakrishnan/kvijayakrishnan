@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **vijayakrishnankbv@yahoo.in**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1idMOeyTSLVqllFc-uL34so-VUhdwYcmjpCh1u6PS4Co/edit?usp=sharing](https://docs.google.com/document/d/1idMOeyTSLVqllFc-uL34so-VUhdwYcmjpCh1u6PS4Co/edit?usp=sharing)
+- 📄 Know about my details [https://drive.google.com/file/d/1dZbt1jN8xk3ff6X6Y9oj29fnSb7QawG8/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 
