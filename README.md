@@ -4,17 +4,10 @@
      src=
 "https://agencecartier.com/wp-content/uploads/2022/08/Cartier_InfolettreJuillet2022_Article1_desktopREV-1.gif" >
 
-A Enthusiyastic Full stack web developer from chennai
+Highly skilled MERN stack development professional bringing immense talent for web design, development, and
+integration. Offering advanced knowledge of in-demand programming languages, with a background in writing code and
+developing applications
 
-- 👯 I’m looking to collaborate on **Full stack web developer**
-
-- 👨‍💻 All of my projects are available at [https://kvijayakrishnan-portfolio.netlify.app/](https://kvijayakrishnan-portfolio.netlify.app/)
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **vijayakrishnankbv@yahoo.in**
-
-- 📄 Know about my details [https://drive.google.com/file/d/1dZbt1jN8xk3ff6X6Y9oj29fnSb7QawG8/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 
