@@ -4,6 +4,8 @@
      src=
 "https://agencecartier.com/wp-content/uploads/2022/08/Cartier_InfolettreJuillet2022_Article1_desktopREV-1.gif" >
 
+
+<h4 align="left">💫About Me</h4>
 Highly skilled MERN stack development professional bringing immense talent for web design, development, and
 integration. Offering advanced knowledge of in-demand programming languages, with a background in writing code and
 developing applications
