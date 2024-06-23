@@ -4,7 +4,7 @@
      src=
 "https://agencecartier.com/wp-content/uploads/2022/08/Cartier_InfolettreJuillet2022_Article1_desktopREV-1.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayakrishnan&label=Profile%20views&color=0e75b6&style=flat" alt="vijayakrishnan" /> </p>
+
 
 - 🌱 I’m currently learning **MERN Stack web developer**
 
