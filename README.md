@@ -4,9 +4,7 @@
      src=
 "https://agencecartier.com/wp-content/uploads/2022/08/Cartier_InfolettreJuillet2022_Article1_desktopREV-1.gif" >
 
-
-
-- 🌱 I’m currently learning **MERN Stack web developer**
+A Enthusiyastic Full stack web developer from chennai
 
 - 👯 I’m looking to collaborate on **Full stack web developer**
 
