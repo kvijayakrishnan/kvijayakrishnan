@@ -9,9 +9,8 @@
 Highly skilled MERN stack development professional bringing immense talent for web design, development, and
 integration. Offering advanced knowledge of in-demand programming languages, with a background in writing code and
 developing applications
-<br>
 
-🛠️ Tech Stack:
+<h3>🛠️ Tech Stack:</h3>
 
 MongoDB | Express.js | React.js | Node.js | Next.js
 HTML5 | CSS3 | JavaScript (ES6+)
