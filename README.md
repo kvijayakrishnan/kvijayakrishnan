@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Vijayakrishnan.K</h1>
 <h3 align="center">A passionate MERN Stack web developer from India</h3>
-<img align="right" alt="Coding" width="400" 
+<div>
+     <img align="right" alt="Coding" width="400" 
      src=
 "https://agencecartier.com/wp-content/uploads/2022/08/Cartier_InfolettreJuillet2022_Article1_desktopREV-1.gif" >
+</div>
 
-
-<h2  align="left">💫About Me</h2>
+<div>
+     <h2  align="left">💫About Me</h2>
 Highly skilled MERN stack development professional bringing immense talent for web design, development, and
 integration. Offering advanced knowledge of in-demand programming languages, with a background in writing code and
 developing applications
@@ -16,6 +18,9 @@ MongoDB | Express.js | React.js | Node.js | Next.js
 HTML5 | CSS3 | JavaScript (ES6+)
 RESTful API design |
 Git | GitHub |
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 
