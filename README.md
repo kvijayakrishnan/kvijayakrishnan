@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Vijayakrishnan.K</h1>
-<h3 align="center">A passionate MERN Stack web developer from India</h3>
+<h3 align="center">A passionate MERN Stack web developer from India ![FlagGIF](https://github.com/user-attachments/assets/2abd51f7-5310-4c36-912f-88bb7d9d1bcc)
+</h3>
      <img align="right" alt="Coding" width="400" 
      src=
 "https://agencecartier.com/wp-content/uploads/2022/08/Cartier_InfolettreJuillet2022_Article1_desktopREV-1.gif" >
